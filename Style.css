@@ -172,7 +172,7 @@ body {
     background-color: black;
     height: 1px;
     width: 16px;
-    opacity: 0.4;
+    opacity: 0.5;
     transform: rotate(-102deg)
 }
 
@@ -183,7 +183,7 @@ body {
     height: 1px;
     width: 16px;
     background-color: black;
-    opacity: 0.4;
+    opacity: 0.5;
     transform: rotate(90deg)
 }
 
